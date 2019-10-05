@@ -1,0 +1,62 @@
+/*
+Creator: Jason Bowser
+Date Created: 9/25/19
+Date last modified: 10/3
+*/
+
+header, footer {
+    text-align: center;
+    background-color: indianred;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.jumbotron h1 {
+    border-bottom: 2px solid;
+}
+
+header {
+    font-family: 'Dancing Script', cursive;
+}
+.main-content {
+    background-color: skyblue;
+}
+
+nav {
+    border-top: beige 4px dotted;
+    border-bottom: beige 4px dotted;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+ .carousel {
+                height: 70px;
+                font-size: 1.5em;
+            }
+
+.carousel-item p {
+                text-align: center;
+                color: whitesmoke;
+                background-color: darkblue;
+            }
+            
+.one-line p {
+                padding: 18px;
+            }
+
+nav .btn {
+    background-color: indianred;
+    color: beige;
+}
+
+nav .btn:hover {
+    font-weight: bold;
+}
+
+nav .btn:visited {
+    color: cadetblue;
+}
+
+nav .btn:active {
+    text-decoration: none;
+}
